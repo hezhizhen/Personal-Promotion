@@ -34,6 +34,20 @@ the process of creating an executable target program
 
 ## 1.2 The Structure of a Compiler
 
+treat a **compiler** as a single box that maps a source program into a semantically equivalent target program. if we open up the box a little, we see that there are two parts to this mapping: **analysis** and **synthesis**
+
+- analysis part: breaks up the source program into constituent pieces and imposes a grammatical structure on them, then uses this structure to create an intermediate representation of the source program; if detects that the source program is either syntactically ill formed or semantically unsound, it must provide informative messages; collects information about the source program and stores it in a data structure called a **symbol table**
+- synthesis part: constructs the desired target program from the intermediate representation and the information in the **symbol table**
+- the analysis part is called the **front end** of the compiler; the synthesis part is the **back end**
+
+compilation process operates as a sequence of **phases**, each of which transforms one representation of the source program to another
+
+![photo](./phases of a compiler.png)
+
+some compilers have a machine-independent optimization phase between the front end and the back end, to perform transformations on the intermediate representation, so that the back end can produce a better target program
+
+### 1.2.1 Lexical Analysis
+
 ## 1.3 The Evolution of Programming Languages
 
 ## 1.4 The Science of Building a Compiler
