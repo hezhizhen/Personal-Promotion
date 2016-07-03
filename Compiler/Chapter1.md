@@ -48,6 +48,39 @@ some compilers have a machine-independent optimization phase between the front e
 
 ### 1.2.1 Lexical Analysis
 
+the first phase of a compiler: **lexical analysis** or **scanning**
+
+the lexical analyzer **reads** the stream of characters making up the source program and **groups** the characters into meaningful sequences (**lexemes**). for each lexeme, the lexical analyzer produces as output a **token** of the form **<token-name, attribute-value>**. token passes on to the subsequent phase **syntax analysis**
+
+token
+
+- token-name: an abstract symbol, used during syntax analysis
+- attribute-value: points to an entry in the symbol table for the token
+- example: position=initial+rate*60
+  - position: a **lexeme** that would be mapped into a token <id,1>, where **id** is an abstract symbol standing for identifier and **1** points to the symbol-table entry for position
+  - =: a **lexeme** that is mapped into the token <=>, which needs no attribute-value
+  - initial: a **lexeme** that is mapped into the token <id,2>
+  - +: a **lexeme** that  is mapped into the token <+>
+  - rate: a **lexeme** that is mapped into the token <id,3>
+  - \*: a **lexeme** that is mapped into the token <\*>
+  - 60: a **lexeme** that is mapped into the token <60>
+  - blanks: separating the lexemes, would be discarded by the lexical analyzer
+  - result: <id,1> <=> <id,2> <+> <id,3> <\*> <60>
+
+### 1.2.2 Syntax Analysis
+
+the second phase of the compiler: syntax analysis or parsing
+
+the parser uses the first components of the tokens produced by the lexical analyzer to create a tree-like intermediate representation that depicts the grammatical structure of the token stream.
+
+syntax tree: a typical representation, each interior node represents an **operation** and the children of the node represent the **arguments** of the operation (the tree shows the order in which the operations in the assignment are to be performed)
+
+![photo](./translation of an assignment statement.png)
+
+### 1.2.3 Semantic Analysis
+
+the semantic analyzer: uses the **syntax tree** and the information in the **symbol table** to check the source program for semantic consistency with the language definition; gathers type information and saves it in either the syntax tree or the symbol table (for subsequent use during intermediate-code generation) 
+
 ## 1.3 The Evolution of Programming Languages
 
 ## 1.4 The Science of Building a Compiler
