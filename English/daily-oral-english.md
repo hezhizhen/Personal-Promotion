@@ -27,17 +27,17 @@
 |once in a blue moon|表示什么事情/东西是千载难逢、十分难得的|用作副词 you get to visit the headquarter of IBM once in a blue moon|
 |the rest is history|表示剩下的事情都是众所周知的||
 |count me out|不把我算上，不用算上我||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|get real|别闹了，别开玩笑，认真点，严肃点|get+adj 变得如何|
+|beat a dead horse|表示白费劲，徒劳||
+|what's the catch|你有什么意图，你是什么意思|catch n. 意图，意思|
+|hang in there|坚持下去，挺住||
+|head over heels|程度很深，完完全全地，深陷，神魂颠倒|heel 脚后跟，鞋跟；这个短语用作副词；fall for sb 爱上某人|
+|over my dead body|除非我死了，想都别想，没门儿||
+|let the cat out of the bag|无意中透露了秘密，说漏了嘴||
+|behind someone's back|在某人背后，背着某人，背地里|speak ill of sb 说某人的坏话|
+|come in handy|派的上用场的，用得着的||
+|rain cats and dogs|雨势很大，倾盆大雨||
+|first come, first served|先到先得，先来后到||
 ||||
 ||||
 ||||
