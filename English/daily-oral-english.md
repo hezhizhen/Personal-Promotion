@@ -38,6 +38,14 @@
 |come in handy|派的上用场的，用得着的||
 |rain cats and dogs|雨势很大，倾盆大雨||
 |first come, first served|先到先得，先来后到||
-||||
-||||
-||||
+|It's not my day|今天过得不好，今天过得很糟糕，今天很倒霉|check the attendance 点名|
+|the more, the merrier|越多越好，多多益善，越多越热闹|merry 欢乐的，快乐的|
+|op the tip of one's tongue|话在嘴边，差一点就说出口；快说出口却一时想不起来|tip 尖端|
+|let someone off the hook|帮助某人脱离困境，让某人摆脱麻烦，让某人免于责罚|hook 挂钩，钓钩|
+|burn the candle at both ends|比喻白天夜里都在工作，过分耗费精力，劳累过度，透支体力|It is never wise to burn the candle at both ends|
+|out of sight, out of mind|眼不见心不烦，眼不见为净|sight 视力，视野|
+|suit yourself|随你便，按你自己的意愿行事，想怎么做怎么做||
+|get cold feet|临阵退缩，打退堂鼓|feet，用复数|
+|no pains, no gains|一分耕耘一分收获，不劳则无获||
+|hit the jackpot|中大奖，走大运，获得巨大成功|jackpot 头奖|
+|rub someone the wrong way|惹怒某人|kiss one's ass 讨好某人，拍某人马屁|
