@@ -49,3 +49,17 @@
 |no pains, no gains|一分耕耘一分收获，不劳则无获||
 |hit the jackpot|中大奖，走大运，获得巨大成功|jackpot 头奖|
 |rub someone the wrong way|惹怒某人|kiss one's ass 讨好某人，拍某人马屁|
+|read somebody like an open book|十分清楚某人心里的想法，对某人的想法了如指掌||
+|put my foot down|下定决心，决心已定，不再改变主意，铁了心||
+|be in the seventh heaven|在无比的幸福快乐中，非常开心，欣喜若狂|what's up|
+|a bed of roses|比喻舒适安逸的生活，称心如意的生活||
+|put on weight|体重增加，长胖了，长肉了|put on a little/some/a lot of weight|
+|sleep like a log|形容睡得很沉|log 原木，木头|
+|scratch each other's back|比如相互帮助||
+|make a mountain out of a molehill|表示大惊小怪，小题大做|mole 鼹鼠，身上的痣 molehill 鼹鼠打洞的时候往外扒出的泥土堆|
+|beside the point|离题了，跑偏了，无关紧要，不是重点||
+|a pain in the neck|比喻讨厌的人活事，令人厌烦的人或事||
+|the tip of the iceberg|冰山一角|tip 一角，一点|
+|save something for a rainy day|比喻留着某物以备不时之需||
+|check somebody out|看某人，因对某人感兴趣而上下打量某人|check out 办理退房手续，检查|
+|take a lot out of somebody|花了某人很多精力，消耗了某人很多精力，把某人累坏了|out of sb 从某人身上拿出来 throw a party 开派对|
