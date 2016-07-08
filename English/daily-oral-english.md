@@ -63,3 +63,19 @@
 |save something for a rainy day|比喻留着某物以备不时之需||
 |check somebody out|看某人，因对某人感兴趣而上下打量某人|check out 办理退房手续，检查|
 |take a lot out of somebody|花了某人很多精力，消耗了某人很多精力，把某人累坏了|out of sb 从某人身上拿出来 throw a party 开派对|
+|in one's book|在某人的书里，在某人的字典里，对某人来说|there is no such word as giving up in my book|
+|that's news to me|对我来说是新鲜事||
+|flip out|失控了，发飙，发疯|flip 弹 someone flip out, something/someone flip someone out|
+|that's what friends are for|这就是好朋友，好朋友就应该这样|we can not rewrite history, but we can write history.|
+|rock the boat|破坏现状，捣乱，惹是生非||
+|chicken out|退缩，胆怯，因胆小而放弃|Don't chicken out even if you are in great difficulties.|
+|you can never tell|你永远也不会知道，不知道，谁知道呢，谁也说不准||
+|on purpose|故意地，有意地||
+|fly at somebody|猛烈地责骂某人，批评某人，对某人大发脾气|字面意思：朝某人飞去|
+|easy does it|慢慢来，不要着急，不要紧，放轻松||
+|be fed up with|对什么人或事感到厌倦，受够了||
+|step on one's toes|激怒某人，惹怒某人|in bad mood 心情不好|
+|it takes two to tango|一个巴掌拍不响，孤掌难鸣|tango 探戈舞|
+|water under the bridge|已经过去的事儿，过往云烟|all these problems will become water under bridge|
+|lose one's temper|发脾气，生气|temper 脾气，性情|
+|there's no place like home|没有比家更温暖的地方，没有比家更好的地方||
