@@ -79,3 +79,15 @@
 |water under the bridge|已经过去的事儿，过往云烟|all these problems will become water under bridge|
 |lose one's temper|发脾气，生气|temper 脾气，性情|
 |there's no place like home|没有比家更温暖的地方，没有比家更好的地方||
+|have one's hand in the clouds|心不在焉||
+|talk is cheap|说起来容易，光说没用|talk is cheap. you have to take action.|
+|I wasn't born yesterday|我又不是小孩子，我又不是三岁小孩||
+|be in the same boat|处境相同，同命相连，遇到相同的问题||
+|think nothing of it|别放在心上|用在别人对你表示感谢，你说没什么不用谢；也可以用于对别人表示安慰|
+|I'm not myself today|我今天心神不宁，我今天不舒服||
+|under the weather|心情不好，身体不适，不舒服|under so much pressure|
+|the walls have ears|隔墙有耳|be careful of sb/sth|
+|we better get going|我们最好现在就走/出发|省略了had|
+|never say die|永不言弃，别灰心，别气馁，别失望||
+|seeing is believing|眼见为实||
+|burn the midnight oil|用功到深夜，熬夜苦干，挑灯夜战||
