@@ -91,3 +91,13 @@
 |never say die|永不言弃，别灰心，别气馁，别失望||
 |seeing is believing|眼见为实||
 |burn the midnight oil|用功到深夜，熬夜苦干，挑灯夜战||
+|for crying out loud|（用于不耐烦或者有些生气的时候）天啊，啊呀，拜托，搞什么名堂|cry out 哭泣，喊 loud不是为了表示喊得多大声，而是一个用于表示强烈语气的口语|
+|you bet|当然，肯定的，一定的，没问题|bet 敢断定，确信|
+|I'm up to my ears|忙得不可开交，深陷于某件事中，忙极了|I'm up to my ears in work/study|
+|It's up in the air|什么事情悬而未决，尚未确定，还没决定|高悬在天空中，还没有落地，还没有尘埃落定|
+|my mouth is watering|我在流口水|water n. vt. vi.|
+|for the time being|暂时，目前，眼下，在目前阶段|副词短语|
+|beat around the bush|旁敲侧击，拐弯抹角，说话绕圈子||
+|it slipped my mind|我忘记了，想不起来了|一般过去时 I meant to call you yesterday, but it slipped my mind. 本来打算给你打电话|
+|don't get me wrong|误会我，误解我|get 理解 get sb wrong 误解某人|
+|it's up to you|由你决定，听你的，你定吧，取决于你|up to 由谁决定|
