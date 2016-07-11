@@ -101,3 +101,7 @@
 |it slipped my mind|我忘记了，想不起来了|一般过去时 I meant to call you yesterday, but it slipped my mind. 本来打算给你打电话|
 |don't get me wrong|误会我，误解我|get 理解 get sb wrong 误解某人|
 |it's up to you|由你决定，听你的，你定吧，取决于你|up to 由谁决定|
+|let's talk over coffee|边喝边聊|let's talk over meal/dinner/lunch 边吃边聊|
+|as far as I'm concerned|就我而言，对我来说，我的想法是，我认为，据我所知|as far as 和什么一样远，远到什么地方；至于，对什么而言|
+|you have my word|我保证，我向你承诺|word 诺言|
+|that's really something|真是了不起|something 重要的事|
