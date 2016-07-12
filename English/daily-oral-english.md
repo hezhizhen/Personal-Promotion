@@ -105,3 +105,7 @@
 |as far as I'm concerned|就我而言，对我来说，我的想法是，我认为，据我所知|as far as 和什么一样远，远到什么地方；至于，对什么而言|
 |you have my word|我保证，我向你承诺|word 诺言|
 |that's really something|真是了不起|something 重要的事|
+|sorry to bother you|抱歉打扰你|用在打扰之前，之后用sorry to have bothered you|
+|have someone's sight on something|看好了某样东西，下定决心要某样东西||
+|turn over a new leaf|重新开始，改过自新，洗心革面，开始新的生活||
+|every dog has its day|风水轮流转，每个人都有出头的日子，每个人都有得意的时候||
