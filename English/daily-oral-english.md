@@ -109,3 +109,9 @@
 |have someone's sight on something|看好了某样东西，下定决心要某样东西||
 |turn over a new leaf|重新开始，改过自新，洗心革面，开始新的生活||
 |every dog has its day|风水轮流转，每个人都有出头的日子，每个人都有得意的时候||
+|lose one's head|丧失理智，慌张，不知所措，昏了头||
+|there's no such thing as a free lunch|天下没有免费的午餐，世界上没有不用付出代价就可以得到的东西|there's no such thing 没有这样的东西|
+|give someone a big hand|热烈鼓掌，为某人鼓掌欢迎，向某人报以热烈的掌声|a big hand 热烈的掌声 give someone a hand 帮助某人|
+|money will come and go|钱乃身外之物||
+|how do I address you|我怎么称呼你/您||
+|my hands are full right now|我现在很忙，忙得不可开交||
