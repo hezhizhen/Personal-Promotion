@@ -115,3 +115,14 @@
 |money will come and go|钱乃身外之物||
 |how do I address you|我怎么称呼你/您||
 |my hands are full right now|我现在很忙，忙得不可开交||
+|I am short on cash|我缺钱|short on 在什么方面不足/缺乏|
+|have a sweet tooth|喜欢吃甜食|have a sour tooth 喜欢吃酸的 注意tooth是单数|
+|pull one's leg|同某人开玩笑，开某人的玩笑，愚弄某人||
+|neck and neck|不分上下，势均力敌，很接近|and的d可以略读|
+|feel/look blue|感到/看起来沮丧||
+|nice going|干得漂亮，做得很棒|you did a good job|
+|after you|你先，您先请，你走前面||
+|waste one's breath|浪费口舌，白说，白费口舌|breath比喻说话|
+|out of one's mind|没有理智，没有头脑，失去理智的||
+|haste makes waste|欲速则不达|haste n. 匆忙|
+|I am flattered|过奖了|flatter 奉承 flattered 受宠若惊的|
