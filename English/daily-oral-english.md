@@ -126,3 +126,4 @@
 |out of one's mind|没有理智，没有头脑，失去理智的||
 |haste makes waste|欲速则不达|haste n. 匆忙|
 |I am flattered|过奖了|flatter 奉承 flattered 受宠若惊的|
+|a cheap skate|
