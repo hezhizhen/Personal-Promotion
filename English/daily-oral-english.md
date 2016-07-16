@@ -126,4 +126,9 @@
 |out of one's mind|没有理智，没有头脑，失去理智的||
 |haste makes waste|欲速则不达|haste n. 匆忙|
 |I am flattered|过奖了|flatter 奉承 flattered 受宠若惊的|
-|a cheap skate|
+|a cheap skate|小气鬼，吝啬的人||
+|make it up to somebody|补偿，弥补|make up 化妆，补偿/弥补某人|
+|see you around|回头见，后会有期||
+|It's been a long time|距离我们上次见面已经过了很长时间了，好久不见了||
+|same to you|你也一样，你也是|通常在别人对你说了祝福的话语之后，比如早上好、新年快乐|
+|look before you leap|三思而后行|leap 跳跃|
