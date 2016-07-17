@@ -132,3 +132,9 @@
 |It's been a long time|距离我们上次见面已经过了很长时间了，好久不见了||
 |same to you|你也一样，你也是|通常在别人对你说了祝福的话语之后，比如早上好、新年快乐|
 |look before you leap|三思而后行|leap 跳跃|
+|what took you so long|你干什么去了这么久||
+|fair and square|光明正大地，诚实地||
+|butter somebody up|对某人说好话，讨好某人||
+|pie in the sky|不切实际的想法，不能保证实现的诺言，难以实现的梦想||
+|face the music|面对现实，勇敢地面对现实中的困难，在做错事后勇敢地承担后果||
+|easy come, easy go|来得快，去得快，来得容易去得快，易得易失|表示的钱财等东西|
