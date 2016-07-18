@@ -138,3 +138,20 @@
 |pie in the sky|不切实际的想法，不能保证实现的诺言，难以实现的梦想||
 |face the music|面对现实，勇敢地面对现实中的困难，在做错事后勇敢地承担后果||
 |easy come, easy go|来得快，去得快，来得容易去得快，易得易失|表示的钱财等东西|
+|practice makes perfect|熟能生巧||
+|have the upper hand|占优势，占上风||
+|call it a day|今天到此为止，今天到此结束||
+|where are you heading|你要去哪儿||
+|show up|出现，露面||
+|out of the question|不可能，没有可能，不予考虑的|something is out of the question|
+|kill time|打发时间，消磨时光||
+|boys will be boys|本性难移||
+|follow somebody|理解某人，听懂某人，明白某人||
+|cross one's heart|发誓，承诺，保证||
+|big mouth|多嘴，守不了秘密||
+|get high hat|摆架子||
+|let it go|任它去吧，不要再想了，放下吧||
+|how big of you|你真棒，我真为你骄傲|catch one's attention|
+|how come...?|为什么？怎么回事？为什么这样？|后面直接加上正常语序的句子|
+|let somebody down|让某人失望，辜负某人的期望||
+|a night person|在晚上活动的人，夜猫子||
