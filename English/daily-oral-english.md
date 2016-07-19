@@ -155,3 +155,33 @@
 |how come...?|为什么？怎么回事？为什么这样？|后面直接加上正常语序的句子|
 |let somebody down|让某人失望，辜负某人的期望||
 |a night person|在晚上活动的人，夜猫子||
+|be in the way|碍事儿，碍手碍脚|in the way of sb|
+|bury one's head in the sand|逃避现实，不愿意正视困难||
+|I can't agree more|我完全同意||
+|excuse me for a moment|抱歉我要离开一会儿，失陪一会儿，失陪一下||
+|ups and downs|起起伏伏，沉浮，盛衰|名词|
+|give someone a break|饶了某人，让某人松一口气，给某人一个喘息的机会|spring break 春假|
+|show someone around|带某人逛逛周围，带某人参观某个地方|后面可以直接加地方|
+|make yourself at home|别客气，别拘束，随便点儿，就当自己家一样|当有客人在自己家做客|
+|time is running out|快没有时间了|表示时间正在一点点用完，但是还没有到最后真正用完的时候|
+|keep your chin up|振奋起来，振作起来|chin 下巴|
+|have a good of it|玩得开心|表示对别人的祝福|
+|in the long run|长期来说，从长远来看|in the long term|
+|make nice with someone|与某人和好，和某人搞好关系，讨好某人||
+|make a difference|有影响，发挥作用|make no difference|
+|a bed of roses|称心如意的生活，美好的生活，安乐的生活||
+|if I were you|假如我是你的话|虚拟语气|
+|how time flies|时光飞逝|感叹句，how加陈述句语序|
+|Don't speak too soon|别说得太早，不要言之过早，别过早下结论||
+|I don't have a clue|我没有头绪，我不知道|I have no idea|
+|ring a bell|听起来耳熟，使某人想起某事，使某人回忆起某事|sth ring a bell with sb|
+|it kills my eyes|某物或某事太好看了，太精彩了，很养眼，亮瞎眼了||
+|I've heard so much about you|久仰大名||
+|raise one's eyebrows|形容吃惊，惊奇|at sth 对什么表示吃惊|
+|follow one's nose|跟着感觉走，凭直觉做事||
+|take sth for granted|当做是理所当然的||
+|it's a deal|就这么决定了，就这么定了|可以简化为deal|
+|see eye to eye with someone|和某人看法相同，和某人见解一致，和某人观点一样||
+|around the clock|24小时不断地，日以继夜地，全天候地，昼夜不断地||
+|make ends meet|收入和支出达到平衡，收支相抵||
+|forgive and forget|冰释前嫌，握手言和，既往不咎，不记仇||
