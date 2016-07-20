@@ -185,3 +185,30 @@
 |around the clock|24小时不断地，日以继夜地，全天候地，昼夜不断地||
 |make ends meet|收入和支出达到平衡，收支相抵||
 |forgive and forget|冰释前嫌，握手言和，既往不咎，不记仇||
+|stay up late|熬夜，睡得晚||
+|no big deal|没什么，没关系，不要紧，没什么大问题，没什么了不起的|it's no big deal|
+|stand someone up|放某人鸽子，爽约||
+|the pleasure's mine|这是我的荣幸，能帮上忙是我的荣幸|用于被人感谢之后的回复，即不用谢|
+|blow it|把什么事搞砸了||
+|can I have a bite?|我能咬一口吗？我能尝一口吗？|of sth|
+|oh shoot!|天啊，糟了|shoot在口语中用作感叹词，表示糟糕，糟了|
+|you owe me one|你欠我一个人情|you owe me a big one; I owe you one|
+|over my dead body|休想，想都别想，除非从我尸体上跨过去，除非我死了||
+|you're going too far|你太过分了|you went too far|
+|hit the ceiling|大发雷霆，暴跳如雷，大发脾气||
+|keep in touch|保持联系|with someone|
+|it's better than nothing|总比什么都没有要好||
+|go Dutch|AA制，平分|Dutch 荷兰人，荷兰人的|
+|green hand|新手，生手，没有任何经验的人||
+|Achilles' heel|致命要害，薄弱环节|heel 脚踝|
+|I mean it|我是说真的，我是认真的||
+|turn back the clock|让时光倒回，让时光逆转||
+|add fuel to the fire|火上浇油||
+|bad-mouth|说某人的坏话，严厉批评，恶意诽谤|作动词|
+|bump into someone|偶然遇见某人，偶然碰上，不期而遇||
+|my bad|我的错，是我不好，我错了|承认错误的同时表达了歉意|
+|I'm gonna ... |我将要做什么事儿|I'm going to|
+|beyond me|对我来说很难理解，理解不了|sth is beyond me|
+|under a lot of pressure|面临很大压力，感到压力很大，压力很大||
+|no offence|不要见怪，我没有冒犯你的意思，我无意冒犯||
+|take your time|慢慢来，不要着急，从容地做你正在做的事||
