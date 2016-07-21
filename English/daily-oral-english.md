@@ -212,3 +212,35 @@
 |under a lot of pressure|面临很大压力，感到压力很大，压力很大||
 |no offence|不要见怪，我没有冒犯你的意思，我无意冒犯||
 |take your time|慢慢来，不要着急，从容地做你正在做的事||
+|know ... like the back of one's hand|对某人了如指掌，非常了解，非常熟悉|sb/sth|
+|steal one's thunder|抢走某人的风头，抢某人的功劳||
+|stand out|显眼，出众，引人注目，与众不同||
+|straight talker|直言不讳的人，说话耿直的人||
+|let's bag it|把东西装进包里，把事情搁一边||
+|all eyes are on me|所有的人都在看我，所有人都在关注我||
+|you got me|你难倒我了，你考倒我了，你难住我了||
+|for your information|我可以告诉你，我可以这样跟你说||
+|two heads are better than one|人多力量大，三个臭皮匠赛过诸葛亮||
+|it means the world|意味着整个世界，意味非凡，意味着一切|to someone|
+|a piece of cake|轻松的事，小菜一碟，小事一桩，轻而易举的事||
+|have your back|支持你，鼎力支持，力挺|have my back|
+|cry over spilt milk|为不可挽回的事伤心，做无益的后悔||
+|I would love to|我十分愿意，我非常希望，我非常愿意|Logic will get you from A to B. Imagination will take you everywhere.|
+|give it a shot|给一次机会，尝试一下，试一试|If Winter comes, can Spring be far behind?|
+|it's a lot to ask|你的要求有点多，你的要求有点过分|A good time to laugh is any time you can. 当A邀请B时，B可以这么说。 of someone|
+|crack someone up|让某人开怀大笑，让某人哈哈大笑||
+|make sense|有道理，讲得通，有意义，言之有理|
+|what's bothering you?|是什么在烦扰着你？你有什么烦心事？|Sometimes the best things in life happen against the odds. 生命中最美好的东西，有时是需要克服很多困难才能遇上的。|
+|think it through|仔细思考，好好考虑，深思熟虑|A person who knows how to laugh at himself will never cease to be amused.|
+|I'm working on it|我正在做这件事，我正在忙这件事|There are two ways of meeting difficulties. You alter the difficulties or you alter yourself to meet them.|
+|jump the gun|操之过急，过早行动，做事情太草率，草率行事||
+|haters gonna hate|有些人就是什么都看不顺眼||
+|have a beef with someone|和某人又争执，与某人发生矛盾|over sth|
+|get the point|理解要点，理解意思，懂得意思|get your point|
+|pay off|取得好的结果，取得成功，有回报||
+|make the most of|最大限度利用，充分利用，尽量利用|make the most use of|
+|I can't wait|我迫不及待地想做什么事||
+|make up|编造，捏造|后接sth|
+|looking forward to it|展望，期盼，期待||
+|smarty pants|自作聪明的人，自以为是的人|smarty 贬义|
+|better late than never|迟到总比不到好，晚做总比不做好||
