@@ -244,3 +244,25 @@
 |looking forward to it|展望，期盼，期待||
 |smarty pants|自作聪明的人，自以为是的人|smarty 贬义|
 |better late than never|迟到总比不到好，晚做总比不做好||
+|keep up the good work|继续保持，继续努力，继续加油，干得好||
+|dead on one's feet|累得脚都走不动了，累得脚都站不住了，累得筋疲力尽，累成狗||
+|be into someone|对什么感兴趣，对什么有意思，喜欢|也可以是sth|
+|what are you up to?|你在忙什么？你最近在忙什么？|见面打招呼|
+|now you are talking!|你说得太对了，这才对，这才像话，你说到点子上了|当你对别人的观点或建议表示赞同|
+|stop by|顺便拜访一下什么地方，在什么地方顺便停一下|直接加地点|
+|the first step is always the hardest|万事开头难||
+|feel free to do something|随便做某事，不要拘束，不要拘谨||
+|nod off|犯困，打瞌睡，打盹儿||
+|pick on|故意挑剔某人，责怪某人，找某人的茬||
+|I prefer ... |我宁愿|后接 to do 或 doing|
+|it sucks|糟透了，烂透了，让人失望||
+|I am rooting for you|支持某人，赞助某人，为某人加油，声援某人||
+|have a way with|擅长于，对什么很有办法，对什么有一套||
+|It's a breeze|轻而易举||
+|drag on|一直拖着|someone/something drag on|
+|I feel like a fish out of water|感到不自在不适应，对新环境感到生疏||
+|What's the hurry?|你急什么？什么事这么急？干什么这么急？||
+|Can I have a word?|我能和你说句话吗？我能和你谈谈吗？|with you|
+|What a bummer!|真烦人，真扫兴，真让人郁闷||
+|I am over it.|我已经不在乎了，我已经不介意了||
+|I have a running nose.|流鼻涕||
