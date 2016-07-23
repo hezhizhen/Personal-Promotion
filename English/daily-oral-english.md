@@ -266,3 +266,55 @@
 |What a bummer!|真烦人，真扫兴，真让人郁闷||
 |I am over it.|我已经不在乎了，我已经不介意了||
 |I have a running nose.|流鼻涕||
+|Go nuts!|发疯了，失去理智了，变得狂热||
+|kind of ... |差不多，有点儿|作为副词，可以接动词或者形容词|
+|I can't feel my legs!|被冻/电得没有知觉了||
+|Someone's number is up.|某人要倒霉了，某人要惨了||
+|hook someone up|牵线，介绍某人和某人认识|with someone|
+|No wonder!|不足为奇，难怪||
+|bug someone|打扰某人||
+|have a sense of humor|有幽默感||
+|It's no use doing it.|做某事是没用的||
+|You are a great help.|帮了很大的忙||
+|Don't take it to heart.|别往心里去，别放在心上||
+|Chances are ... |什么事情有可能||
+|A die-hard fan!|死忠粉|of someone|
+|mess up|搞砸，弄乱|mess up sth|
+|It occurred to me ... |我想到……||
+|Things got out of hand.|一发不可收拾了||
+|Let's face it, ok?|面对现实；老实说||
+|Would you mind ... ?|你介意做某事吗？|委婉地让某人做某事|
+|Go easy on yourself!|对某人宽容点||
+|It's anyone's guess.|谁都说不准，谁都说不清楚||
+|I already have plans.|我已经有安排了，我已经有约了|可用于委婉地拒绝邀请|
+|Sorry, I am not available.|抱歉，我没有空||
+|My hands are full.|腾不出手来，没有空，特别忙||
+|I have the best day ever!|最好的一天，没有之一||
+|I've seen better days.|今天过得不怎么样|或者形容物品状态不如从前|
+|It works like a charm.|特别有效，很管用|charm 魅力，魔力|
+|Guess what?|你猜怎么着？||
+|I've got to do it!|必须做某事|must 自己觉得非做不可，have to 客观因素导致不得不做|
+|It's not that ... |并不是……||
+|I feel in the pink!|气色很好，精力充沛，身体很好||
+|We are packed like sardines!|挤得像沙丁鱼似的||
+|That explains everything!|原来如此，这样就说得通了||
+|Where was I?|我刚刚说到哪儿了？|where were we?|
+|I'm going nowhere fast.|费了九牛二虎之力却毫无进展||
+|Who's on board?|谁同意？谁支持？|be on board with someone/sth|
+|I said it for a reason.|……是有原因的|bear it in mind|
+|You are dead wrong!|大错特错|语气强烈|
+|What do you say?|你觉得呢？||
+|He brags about his English.|炫耀||
+|I told you so.|我早就跟你说过了||
+|I get stuck in traffic.|我堵在路上了|be/get stuck in sth|
+|I can live with that.|我可以忍受||
+|keep it together|别慌，淡定||
+|keep the change|不用找了，零钱留着吧|change 零钱|
+|It's hard to say|很难说，说不清楚，还不确定||
+|What for?|为什么||
+|It weirded me out.|让某人纳闷，让某人搞不清楚||
+|How dare you?!|你怎么敢这么做！||
+|I am not seeing anyone.|我最近没有和谁在约会||
+|Why the long face?|为什么不开心？||
+|Don't be such a chicken.|别像个胆小鬼一样|chicken 胆小鬼|
+|May I have your name?|你叫什么名字？||
