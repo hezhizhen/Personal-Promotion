@@ -80,3 +80,8 @@ world"
 
 print r"C:\nowhere" # 原始字符串
 print u"hello world" # Unicode字符串
+
+edward = ['Edward Gumby', 42]
+john = ['John Smith', 50]
+database = [edward, john]
+print database
