@@ -213,3 +213,17 @@ print x
 x=[1,2,3,4,5]
 x.sort(reverse=True)
 print x
+
+a=1,2,3
+print a
+b=(1,2,3)
+print b
+
+a=42,
+print a
+b=(42,)
+print b
+
+print tuple([1,2,3])
+print tuple('abc')
+print tuple((1,2,3))
