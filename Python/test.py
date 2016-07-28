@@ -5,6 +5,8 @@
 import math
 import cmath
 from math import sqrt
+from math import pi
+from string import Template
 
 # Start
 print "hello world"
@@ -227,3 +229,15 @@ print b
 print tuple([1,2,3])
 print tuple('abc')
 print tuple((1,2,3))
+
+# string
+formats="Hello, %s. %s enough for ya?"
+values =('World', 'Hot')
+print formats % values
+
+formats="Pi with three decimals: %.3f"
+print formats % pi
+
+# 模板字符串
+s=Template('$x, glorious $x!')
+print s.substitute(x='slurm')
