@@ -241,3 +241,16 @@ print formats % pi
 # 模板字符串
 s=Template('$x, glorious $x!')
 print s.substitute(x='slurm')
+
+print '%s plus %s equals %s' % (1,1,2)
+
+print 'Price: $%d' % 42 # 实数
+print 'Hexadecimal: %x' % 42 # 十六进制
+print 'Pi: %f...' % pi # 浮点数
+
+print '%10f' % pi # 字段宽度为10
+print '%10.2f' % pi # 字段宽度为10，精度为2
+print '%010.2f' % pi # 标表为0
+print '%-10.2f' % pi # 标表为-
+print '% 10.2f' % pi
+print '%+10.2f' % pi
