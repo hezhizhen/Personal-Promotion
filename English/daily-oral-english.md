@@ -318,3 +318,13 @@
 |Why the long face?|为什么不开心？||
 |Don't be such a chicken.|别像个胆小鬼一样|chicken 胆小鬼|
 |May I have your name?|你叫什么名字？||
+|Don't take it out on me.|别把怒气撒到我身上|take it out on sb/sth 把怒气撒到……上|
+|Can you pick me up?|你能来接我吗？|pick up sb 接某人|
+|He's my age.|他和我同岁，他和我是同龄人|be my/his age|
+|drop someone off|开车把某人送到什么地方|at the place|
+|Hold it!|打住，稍等一下|别人没说完，自己有疑问 hold it there|
+|Tastes differ.|众口难调，萝卜青菜各有所爱|A differs from B|
+|I am relieved.|安心，松了一口气||
+|Let me walk you home.|送人回家||
+|You are the best!|你最好了||
+|I hear you.|我听到了，我听明白了，我懂你的意思了||
