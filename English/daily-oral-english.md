@@ -328,3 +328,8 @@
 |Let me walk you home.|送人回家||
 |You are the best!|你最好了||
 |I hear you.|我听到了，我听明白了，我懂你的意思了||
+|I'll walk you out.|我送你出去，送你出门||
+|keep it to yourself|你自己知道就行了，不要告诉别人，要保密||
+|Period.|句号，用来强调我的话说完了，就这些||
+|have a short temper|急性子，急脾气|be short tempered|
+|I think I'll pass.|我就算了，我还是不去了|但是你们的心意我领了|
