@@ -11,7 +11,7 @@ import re
 def main():
     driver = webdriver.PhantomJS(executable_path='/usr/local/bin/phantomjs')
     driver.get("https://mm.taobao.com/search_tstar_model.htm?")
-    bs0bj=BeautifulSoup(driver.page_source,"lxml") # 解析HTML语言
+    bs0bj=BeautifulSoup(driver.page_source,"lxml") 
     fp = open('mm.txt','r+')
     fp.write(driver.find_element_by_id('J_GirlsList').text)
     print("[*]OK GET MM's BOOK")
@@ -45,7 +45,7 @@ def main():
         url = "https:" + str(imageUrl["data-ks-lazyload"])
         html = urlopen(url)
         data = html.read()
-        fileName = '/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/' + str(number) + '.jpg'
+        fileName = '/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/mm' + str(number) + '.jpg'
         fph = open(fileName,"wb")
         print("[+]Loading MM ...... "+fileName)
         fph.write(data)
