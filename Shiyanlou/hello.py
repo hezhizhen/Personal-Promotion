@@ -146,7 +146,7 @@ lilei.printGender()
 print('-'*50)
 
 print(dir(list)) # dir()查询一个类或者对象所有属性
-print(help(list)) # help()查询说明文档
+# print(help(list)) # help()查询说明文档
 print('-'*50)
 
 # list的一些方法
@@ -195,3 +195,186 @@ class years(object):
 test = years(2004,1,1)
 print(test.judge())
 print('-'*50)
+
+# 容器：存储多个元素的对象
+dic = {'tom':11, 'sam':57, 'lily':100} # dict: key & value 字符串来表示key，或数字和真值 key不可变。 dict的元素没有顺序
+print(type(dic))
+print(dic['tom']) # 通过key来引用元素
+dic = {} # blank dict
+print(dic)
+dic['lilei'] = 99 # 添加元素至dict
+print(dic)
+dic = {'lilei': 90, 'lily': 100, 'sam': 57, 'tom': 90}
+for key in dic:
+    print(dic[key])
+
+print(dic.keys()) # 返回所有的key
+print(dic.values()) # 返回所有的value
+print(dic.items()) # 返回所有key-value对
+del dic['tom'] # 删除某元素
+print(dic)
+print(len(dic))
+dic.clear() # 清空dict
+print(dic)
+print('-'*50)
+
+# 文件输入输出
+# 对象名 = open(文件名，模式)
+# 模式有：r, r+, w, w+, a, a+。 r系列文件必须存在，w系列若文件存在则清空内容，若文件不存在则建立，a系列若文件不存在则建立，若存在则附加至文件尾。 +为可读写
+# b字符表示打开的文件为二进制文件，非纯文字文件
+f = open("test.txt","r+")
+content = f.read(10) # 读取10 bites的数据
+print(content)
+content = f.readline() # 读取一行
+print(content)
+content = f.readlines() # 读取所有行
+print(content)
+f.write('I like apple!\n')
+f.close() # 关闭文件
+print('-'*50)
+
+# 模块， 写在最前面
+# import a as b 引入模块a，并将模块a重命名为b
+# from a import function1 从模块a中引入function1对象。调用时直接使用function1而非a.function1
+# from a import * 从模块a中引入所有对象，调用时直接使用对象
+# 搜索路径：程序所在文件夹，环境变量包含路径，标准库安装路径
+# 模块包：可以把功能相似的模块放在同一个文件夹中，该文件夹中须包含一个__init__.py文件，可以为空文件
+# import this_dir.module 引入this_dir文件中的module模块
+
+# 参数传递
+# 位置传递：根据参数的位置传递参数，如f(1,2,3)
+# 关键字传递：根据参数的名字传递参数，如f(c=3,b=2,a=1)
+# 上述两种传递方式可以混用
+# 函数可以给参数赋予默认值，如def f(a,b,c=10)，调用时可以为f(3,2)或f(3,2,1)
+# 包裹传递：不清楚参数个数时。
+# 包裹位置传递：如def func(*name)，调用时f(1,4,6)和f(1,2,3,4,5,6,7)都是可行的
+# 包裹关键字传递：如def func(**dict)，调用时func(a=1,b=9)
+# 解包裹：调用时先定义tuple，再用tuple作参数，如def func(a,b,c)，调用时args=(1,2,3), func(*args)；dict = {'a':1,'b':2}, func(**dict)
+
+s = 'abcdefghijk'
+for i in range(0,len(s),2): # range(上限，下限，步长)
+    print(s[i])
+print('-'*50)
+
+for (index, char) in enumerate(s): # enumerate()返回一个两个元素的tuple
+    print (index, char)
+print('-'*50)
+
+ta = [1,2,3]
+tb = [9,8,7]
+tc = ['a','b','c']
+for (a,b,c) in zip(ta,tb,tc): # zip()从各个序列各取一个元素合成一个tuple，各序列需等长
+    print(a,b,c)
+print('-'*50)
+
+# cluster
+zipped = zip(ta,tb)
+print(zipped)
+# decompose
+na, nb = zip(*zipped)
+print(na,nb)
+print('-'*50)
+
+# 循环对象包含next()方法，直到StopIteration错误
+# iter()函数
+# 生成器，类似函数，只是return改成yield。可以有多个yield
+def gen():
+    a = 100
+    yield a
+    a += 8
+    yield a
+    yield 1000
+
+for i in gen():
+    print i
+
+def gen():
+    for i in range(4):
+        yield i
+G = (x for x in range(4))
+print(G)
+print('-'*50)
+
+# 表推导：快速生成表的方法
+L = []
+for x in range(10):
+    L.append(x**2)
+print(L)
+L = [x**2 for x in range(10)]
+print(L)
+print('-'*50)
+
+# lambda函数
+func = lambda x,y:x+y
+print(func(3,4))
+
+# 函数作为参数传递
+def test(f,a,b):
+    print('test')
+    print(f(a,b))
+test(func,3,5)
+test((lambda x,y:x**2+y),6,9)
+print('-'*50)
+
+# map()
+re = map((lambda x:x+3),[1,3,5,6]) # 2个参数，第1个参数为函数，第二个参数为表。功能是将函数对象依次作用于表的每一个元素
+print(re)
+
+# filter()函数
+def func(a):
+    if a>100:
+        return True
+    else:
+        return False
+print(filter(func,[10,56,101,500])) # 如果函数对象返回True，则该次的元素被存储于返回的表中
+
+# reduce()
+print(reduce((lambda x,y:x+y),[1,2,5,7,9])) # reduce()的第一个参数的函数只能接收2个参数，累进作用于各个参数
+print('-'*50)
+
+re = iter(range(5))
+try: # 在try中放入容易犯错的部分
+    for i in range(100):
+        print(re.next())
+except StopIteration:
+    print('Here is end ', i)
+print('hahahaha')
+
+def test_func():
+    try:
+        m = 1/0
+    except NameError:
+        print('Catch NameError in the sub-function')
+try:
+    test_func()
+except ZeroDivisionError:
+    print('Catch error in the main program')
+print('-'*50)
+
+# 抛出异常
+print('lalala')
+# raise StopIteration
+print('hahaha')
+print('-'*50)
+
+# C语言中的变量即Python中的对象。对象是存储在内存中的实体，并不能直接接触，对象名只是指向该对象的引用
+# 引用和对象分离，是动态类型的核心
+a = 3
+print(a)
+a = 'at'
+print(a)
+
+L1 = [1,2,3]
+L2 = L1
+L1[0] = 10
+print(L2) # L1和L2指向同一个表
+print('-'*50)
+
+# 函数的参数传递，本质上传递的是引用
+# 不可变数据对象，值传递
+
+# homework
+xl = [1,3,5]
+yl = [9,12,13]
+L = [x**2 for (x,y) in zip(xl,yl) if y>10]
+print(L)
