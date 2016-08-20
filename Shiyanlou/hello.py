@@ -373,8 +373,54 @@ print('-'*50)
 # 函数的参数传递，本质上传递的是引用
 # 不可变数据对象，值传递
 
-# homework
-xl = [1,3,5]
-yl = [9,12,13]
-L = [x**2 for (x,y) in zip(xl,yl) if y>10]
-print(L)
+# 特殊方法：前后各俩下划线
+# 运算符是通过调用对象的特殊方法实现的
+print('abc'+'xyz')
+print('abc'.__add__('xyz')) # 实际上是这样实现加法的
+
+# 内置函数也调用对象的特殊方法
+print(len([1,2,3]))
+print([1,2,3].__len__())
+
+# 表元素的引用
+li = [1,2,3,4,5,6]
+print(li[3])
+print(li.__getitem__(3))
+
+# 函数也是一种对象。任何一个有__call__()特殊方法的对象都是函数
+class SampleMore(object):
+    def __call__(self,a):
+        return a+5
+add = SampleMore() # 一个函数对象
+print(add(2)) # 函数调用
+print(map(add,[2,4,5]))
+print('-'*50)
+
+# 上下文管理器
+# 可以在不需要文件时，自动关闭文件
+f = open('test.txt', 'w')
+print(f.closed)
+f.close()
+print(f.closed)
+
+with open('test.txt','w') as f:
+    print(f.closed)
+print(f.closed) # 退出with as程序块后自动关闭文件
+
+# 任何定义了__enter__()和__exit__()方法的对象都可以用于上下文管理器
+# 文件对象是内置对象，自带俩特殊方法
+class VOW(object):
+    def __init__(self, text):
+        self.text = text
+    def __enter__(self):
+        self.text = 'I say: ' + self.text
+        return self
+    def __exit__(self, exc_type, exc_value,traceback):
+        self.text = self.text + '!'
+
+with VOW("I'm fine") as myvow:
+    print(myvow.text)
+print(myvow.text)
+print('-'*50)
+
+# 每个对象可以有多个属性，对象的属性存储在对象的__dict__属性中，key为属性名，value为属性本身
