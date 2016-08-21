@@ -424,3 +424,15 @@ print(myvow.text)
 print('-'*50)
 
 # 每个对象可以有多个属性，对象的属性存储在对象的__dict__属性中，key为属性名，value为属性本身
+# 类属性：来自类定义。可能来自类定义自身，也可能根据类定义继承而来
+# 对象属性：该对象实例定义的
+class bird(object):
+    feather = True
+class chicken(bird):
+    fly = False
+    def __init__(self,age):
+        self.age = age
+summer = chicken(2)
+print(bird.__dict__)
+print(chicken.__dict__)
+print(summer.__dict__)
