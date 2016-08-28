@@ -436,3 +436,69 @@ summer = chicken(2)
 print(bird.__dict__)
 print(chicken.__dict__)
 print(summer.__dict__)
+
+# python中属性是分层定义的，需要调用某个属性时，python会层层向上遍历，直到找到最低层的那个属性
+# 同一对象的不同属性之间可能存在依赖关系，则不能用__dict__方式来静态存储属性
+# python有多种即时生成属性的方法，其中一种为特性
+class bird(object):
+    feather = True
+class chicken(bird):
+    fly = False
+    def __init__(self,age):
+        self.age = age
+    def getAdult(self):
+        if self.age > 1.0:
+            return True
+        else:
+            return False
+    adult = property(getAdult) # property is built-in
+
+summer = chicken(2)
+print(summer.adult)
+summer.age = 0.5
+print(summer.adult)
+# property()最多可以有4个参数，前三个参数为函数，分别用于处理查询特性、修改特性、删除特性，最后一个参数为特性的文档，可以为字符串，起说明作用
+class num(object):
+    def __init__(self, value):
+        self.value = value
+    def getNeg(self):
+        return -self.value
+    def setNeg(self, value):
+        self.value = -value
+    def delNeg(self):
+        print("value also deleted")
+        del self.value
+    neg = property(getNeg, setNeg, delNeg, "I'm negative")
+
+x = num(1.1)
+print(x.neg)
+x.neg = -22
+print(x.value)
+print(num.neg.__doc__)
+del x.neg
+
+# 特殊方法__getattr__(self, name)查询即时生成的属性，同理还有__setattr__(self, name, value)和__delattr__(self, name)
+class bird(object):
+    feather = True
+
+class chicken(bird):
+    fly = False
+    def __init__(self, age):
+        self.age = age
+    def __getattr__(self, name):
+        if name == 'adult':
+            if self.age > 1.0: return True
+            else: return False
+        else: raise AttributeError(name)
+
+summer = chicken(2)
+
+print(summer.adult)
+summer.age = 0.5
+print(summer.adult)
+# print(summer.male)
+
+
+print((1.8).__mul__(2.0))
+print(True.__or__(False))
+print('-'*50)
