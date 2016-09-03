@@ -333,3 +333,4 @@
 |Period.|句号，用来强调我的话说完了，就这些||
 |have a short temper|急性子，急脾气|be short tempered|
 |I think I'll pass.|我就算了，我还是不去了|但是你们的心意我领了|
+|fit in|合群，和周围的人合得来，相处融洽，能够融入周围的环境|fit in with sb|
