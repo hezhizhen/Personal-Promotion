@@ -334,3 +334,6 @@
 |have a short temper|急性子，急脾气|be short tempered|
 |I think I'll pass.|我就算了，我还是不去了|但是你们的心意我领了|
 |fit in|合群，和周围的人合得来，相处融洽，能够融入周围的环境|fit in with sb|
+|That was close!|好险，差点就……|过去时，同义短语有close one|
+|How did it go?|什么事进展得如何，结果如何，后来怎么样了|关心别人 过去时 还可以问别人的关系如何，how did it go with you and sam?|
+|Call it even?|扯平了||
