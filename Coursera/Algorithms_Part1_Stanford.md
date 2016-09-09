@@ -1,0 +1,24 @@
+# Algorithms: Design and Analysis, Part 1
+
+## INTRODUCTION
+
+### Welcome and Week 1 Overview
+
+- INTRODUCTION: begin by discussing algorithms in general and why they are important, then use the problem of multiplying two integers to illustrate how algorithmic ingenuity can often improve over more straightforward or naive solutions. discuss the Merge Sort algorithm in detail: a good warm-up to get you ready for more intricate algorithm, the canonical introduction to the "divide and conquer" algorithm design paradigm. these lectures conclude by describing several guiding principles for how we'll analyze algorithms in this course
+- ASYMPTOTIC ANALYSIS: an introduction to big-oh notation and its relatives. the goal is to identify a "sweet spot" of granularity for reasoning about algorithms -- focus on how the running time of an algorithm scales as the input size grows large
+- DIVIDE & CONQUER ALGORITHMS: discuss three non-trivial examples of the divide and conquer algorithm design paradigm. the first is for counting the number of inversions in an array (the problem is related to measuring similarity between two ranked lists, which in turn is relevant for making good recommendations to someone based on your knowledge of their and others' preferences "collaborative filtering"). the second algorithm is Strassen's mind-blowing recursive algorithm for matrix multiplication. the third algorithm is for computing the closest pair of points in the plane.
+- PREREQUISITES: it assumes that you have basic programming skills in a language. use mathematical analysis as needed to understand how and why algorithms and data structure really work
+- DISCUSSION FORUMS: if you have trouble understanding a lecture or completing an assignment, you should turn to the forums for help; contribute to the forums and help out your fellow students
+- VIDEOS AND SLIDES: videos, PDF lecture slides, subtitle files
+- HOMEWORK: 5 problems, mostly about Merge Sort and asymptotic notation
+- SUGGESTED READINGS: CLRS (Cormen, Leiserson, Rivest, and Stein: Introduction to Algorithms), DPV (Dasgupta, Papadimitriou, and Vazirani: Algorithms), KT (Kleinberg and Tardos: Algorithm Design), SW (Sedgewick and Wayne: Algorithms)
+    - CLRS: chapter 2,3,4(through 4.2) and 28.1 and 33.4
+    - DPV: 0.3, 2.1, 2.3, 2.5
+    - KT: 2.1, 2.2, 2.4, 5.1, 5.3-5.5
+    - SW: 1.4, 2.2
+
+### Overview, Resources, and Policies
+
+## ASYMPTOTIC ANALYSIS
+
+## DIVIDE & CONQUER ALGORITHMS
