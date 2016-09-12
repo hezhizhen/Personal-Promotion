@@ -507,3 +507,21 @@ less	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxCommandInstances/
 [第8节 Linux操作命令（八）](https://github.com/hezhizhen/Personal-Promotion/tree/master/Shiyanlou/LinuxCommandInstances/8.md)	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxCommandInstances/README.md	/^### [第8节 Linux操作命令（八）](https:\/\/github.com\/hezhizhen\/Personal-Promotion\/tree\/master\/Shiyanlou\/LinuxCommandInstances\/8.md)$/;"	function	line:17
 [第9节 Linux操作命令（九）](https://github.com/hezhizhen/Personal-Promotion/tree/master/Shiyanlou/LinuxCommandInstances/9.md)	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxCommandInstances/README.md	/^### [第9节 Linux操作命令（九）](https:\/\/github.com\/hezhizhen\/Personal-Promotion\/tree\/master\/Shiyanlou\/LinuxCommandInstances\/9.md)$/;"	function	line:19
 [第10节 Linux操作命令（十）](https://github.com/hezhizhen/Personal-Promotion/tree/master/Shiyanlou/LinuxCommandInstances/10.md)	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxCommandInstances/README.md	/^### [第10节 Linux操作命令（十）](https:\/\/github.com\/hezhizhen\/Personal-Promotion\/tree\/master\/Shiyanlou\/LinuxCommandInstances\/10.md)$/;"	function	line:21
+[Linux基础入门（新版）](https://www.shiyanlou.com/courses/1)	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^# [Linux基础入门（新版）](https:\/\/www.shiyanlou.com\/courses\/1)$/;"	function	line:1
+第1节 Linux系统简介	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第1节 Linux系统简介$/;"	function	line:3
+第2节 基本概念及操作	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第2节 基本概念及操作$/;"	function	line:5
+第3节 用户及文件权限管理	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第3节 用户及文件权限管理$/;"	function	line:7
+第4节 Linux目录结构及文件基本操作	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第4节 Linux目录结构及文件基本操作$/;"	function	line:9
+第5节 环境变量与文件查找	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第5节 环境变量与文件查找$/;"	function	line:11
+第6节 文件打包与解压缩	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第6节 文件打包与解压缩$/;"	function	line:13
+第7节 文件系统操作与磁盘管理	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第7节 文件系统操作与磁盘管理$/;"	function	line:15
+第8节 Linux下的帮助命令	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第8节 Linux下的帮助命令$/;"	function	line:17
+第9节 Linux任务计划crontab	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第9节 Linux任务计划crontab$/;"	function	line:19
+第10节 命令执行顺序控制与管道	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第10节 命令执行顺序控制与管道$/;"	function	line:21
+第11节 简单的文本处理	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第11节 简单的文本处理$/;"	function	line:23
+第12节 数据流重定向	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第12节 数据流重定向$/;"	function	line:25
+第13节 正则表达式基础	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第13节 正则表达式基础$/;"	function	line:27
+第14节 Linux下软件安装	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第14节 Linux下软件安装$/;"	function	line:29
+第15节 Linux进程概念	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第15节 Linux进程概念$/;"	function	line:31
+第16节 Linux进程管理	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第16节 Linux进程管理$/;"	function	line:33
+第17节 Linux日志系统	/Users/hezhizhen/GitHub/Personal-Promotion/Shiyanlou/LinuxBasicIntroduction/README.md	/^### 第17节 Linux日志系统$/;"	function	line:35
