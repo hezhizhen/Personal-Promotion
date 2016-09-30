@@ -26,3 +26,10 @@
 15. Nowadays, many students always go into raptures at the mere mention of the coming life of high school or college they will begin. Unfortunately, for most young people, it is not pleasant experience on their first day on campus.
 16. In view of the seriousness of this problem, effective measures should be taken before things get worse.
 17. The majority of students believe that part-time job will provide them with more opportunities to develop their interpersonal skills, which may put them in a favorable position in the future job markets.
+18. It is indisputable that there are millions of people who still have a miserable life and have to face the dangers of starvation and exposure.
+19. Although this view is wildly held, this is little evidence that education can be obtained at any age and at any place.
+20. No one can deny the fact that a person's education is the most important aspect of his life.
+21. People equate success in life with the ability of operating computer.
+22. In the last decades, advances in medical technology have made it possible for people to live longer than in the past.
+23. In fact, we have to admit the fact that the quality of life is as important as life itself.
+24. We should spare no effort to beautify our environment.
