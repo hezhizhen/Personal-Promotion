@@ -21,3 +21,7 @@ Lindsay Bassett
 ### 9. JSON on the Server Side
 
 ### 10. Conclusion
+
+- What is it?
+- How can I use it?
+- How can the bad guys use it?
