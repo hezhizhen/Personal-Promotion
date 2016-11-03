@@ -157,6 +157,10 @@ the language of the document can be declared in the `<html>` tag with the **lang
 - `en`: specify the language
 - if there is a dialect, use two more letters (US)
 
+### The title Attribute
+
+a title attribute is added to the `<p>` element
+
 ## HTML Headings
 
 ## HTML Paragraphs
