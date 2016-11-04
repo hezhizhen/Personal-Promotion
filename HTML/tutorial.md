@@ -177,6 +177,24 @@ alt attribute specifies an alternative text to be used, when an image cannot be 
 
 ## HTML Headings
 
+### HTML Headings
+
+headings are defined with the `<h1>` to `<h6>` tags
+
+### HTML Horizontal Rules
+
+`<hr>` tag defines a thematic break in a page and is most often displayed as a horizontal rule; `<hr>` element is used to separate content in a page
+
+### The HTML `<head>` Element
+
+`<head>` element has nothing to do with headings; it is a container for metadata ( data about the HTML document, which is not displayed); is placed between the `<html>` tag and the `<body>` tag
+
+> metadata typically define the document title, character set, styles, links, scripts and other meta information
+
+### HTML Tip - How to View HTML Source
+
+in chrome: view page source
+
 ## HTML Paragraphs
 
 ## HTML Styles
