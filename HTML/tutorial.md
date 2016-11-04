@@ -159,7 +159,21 @@ the language of the document can be declared in the `<html>` tag with the **lang
 
 ### The title Attribute
 
-a title attribute is added to the `<p>` element
+a title attribute is added to the `<p>` element, and the value will be displayed as a tooltip when you mouse over the paragraph `<p title="I'm a tooltip">This is a paragraph.</p>`
+
+### The href Attribute
+
+links are defined with the `<a>` tag and the link address is specified in the **href** attribute `<a href="http://www.w3schools.com">This is a link</a>`
+
+### Size Attributes
+
+images are defined with the `<img>` tag `<img src="w3schools.jpg" width="104" height="142">`
+
+### The alt Attributes
+
+alt attribute specifies an alternative text to be used, when an image cannot be displayed `<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">`
+
+### Suggest: Quote Attribute Values (double quotes)
 
 ## HTML Headings
 
