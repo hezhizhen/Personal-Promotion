@@ -195,9 +195,71 @@ headings are defined with the `<h1>` to `<h6>` tags
 
 in chrome: view page source
 
+### HTML Tag Reference
+
+- `<html>`       : define the root of an HTML document
+- `<body>`       : define the document's body
+- `<head>`       : a container for all the head elements(title, scripts, styles, meta information, and more)
+- `<h1> to <h6>` : define HTML headings
+- `<hr>`         : define a thematic change in the content
+
 ## HTML Paragraphs
 
+`<p>` element define a paragraph (browsers automatically add some white space (a margin) before and after a paragraph)
+
+### HTML Display
+
+the browser will remove any extra spaces and extra lines when the page is displayed
+
+### Don't Forget the End Tag
+
+dropping the end tag can produce unexpected results or errors
+
+### HTML Line Breaks
+
+`<br>` element defines a line break (a new line without starting a new paragraph); it is an empty tag (no end tag)
+
+### The Poem Problem
+
+`<pre>` element defines preformatted text; the text inside a `<pre>` element is displayed in a fixed-width font and it preserves both spaces and line breaks
+
 ## HTML Styles
+
+### HTML Style Attribute
+
+style attribute has the syntax: `<tagname style="property:value;">`
+
+- property: a CSS property
+- value: a CSS value
+
+### HTML Background Color
+
+background-color property defines the background color for an element `<tagname style="background-color:powerblue;">`
+
+### HTML Text Color
+
+color property defines the text color for an element `<tagname style="color:blue;">`
+
+### HTML Fonts
+
+font-family property defines the font to be used for an element `<tagname style="font-family:courier;">`
+
+### HTML Text Size
+
+font-size property defines the text size for an element `<tagname style="font-size:300%;">`
+
+### HTML Text Alignment
+
+text-align property defines the horizontal text alignment for an element `<tagname style="text-align:center;">`
+
+### Chapter Summary
+
+- style            : attribute, for styling elements
+- background-color : property
+- color            : property
+- font-family      : property
+- font-size        : property
+- text-align       : property
 
 ## HTML Formatting
 
