@@ -282,6 +282,30 @@ HTML defines special elements for defining text with a special meaning; uses ele
 
 ## HTML Quotations
 
+### HTML Short Quotations
+
+`<q>` element defines a short quotation
+
+### HTML Quotations
+
+`<blockquote>` element defines a section that is quoted from another source `<blockquote cite="http://www.worldwildlife.org/who/index.html">...</blockquote>`
+
+### HTML Abbreviations
+
+`<abbr>` element defines an Abbreviation or an acronym `<abbr title="World Health Organization">WHO</abbr>`
+
+### HTML Contact Information
+
+`<address>` element defines contact information (author/owner) of a document or an article
+
+### HTML Work Title
+
+`<cite>` element defines the title of a work
+
+### HTML Bi-Directional Override
+
+`<bdo>` element defines bi-directional override `<bdo dir="rtl">...</bdo>` (rtl: from right to left)
+
 ## HTML Computercode
 
 ## HTML Comments
