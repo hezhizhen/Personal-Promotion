@@ -263,6 +263,23 @@ text-align property defines the horizontal text alignment for an element `<tagna
 
 ## HTML Formatting
 
+### HTML Formatting Elements
+
+HTML defines special elements for defining text with a special meaning; uses elements like `<b>` and `<i>` for formatting output (bold and italic)
+
+- `<b>`      : bold text
+- `<strong>` : important text
+- `<i>`      : italic text
+- `<em>`     : emphasized text
+- `<mark>`   : marked text
+- `<small>`  : small text
+- `<del>`    : deleted text
+- `<ins>`    : inserted text
+- `<sub>`    : subscript text
+- `<sup>`    : superscript text
+
+> browsers display `<strong>` as `<b>`, and `<em>` as `<i>`, but there is a difference in the meaning of these tags: `<b>` and `<i>` defines bold and italic text, but `<strong>` and `<em>` means that the text is **important**
+
 ## HTML Quotations
 
 ## HTML Computercode
