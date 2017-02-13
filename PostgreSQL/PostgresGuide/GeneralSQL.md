@@ -24,12 +24,13 @@ the syntax for a query:
 * the data you want to retrieve
 * where the data is coming from
 * a semicolon `;` signals the end of your query 
+* e.g.: `SELECT first_name, last_name, email FROM users;` (可以分2行写) 
 
 ### Filtering Data
 
 can use a combination of filters to filter data
 
-* the first is first initially specified with the **where** condition
+* the filter is first initially specified with the **where** condition
 * can combine this with other conditions using either **and** or **or** clause
 
 e.g.: find all users that created accounts in January of 2012
@@ -38,14 +39,14 @@ e.g.: find all users that created accounts in January of 2012
 SELECT email, created_at
 FROM users
 WHERE created_at >= '2012-01-01'
-AND created_at < '2012-02-01'
+  AND created_at < '2012-02-01'
 ```
 
 ## Joins
 
 ### What are they?
 
-combine data from 2 different tables
+combine data from 2 different tables; you combine them depned on the type of join 
 
 there are multiple ways to join data
 
@@ -53,7 +54,7 @@ there are multiple ways to join data
 
 2 tables are related by keys
 
-e.g.: 
+e.g.: find which products have been purchased recently
 
 ```
 SELECT
@@ -63,16 +64,15 @@ FROM
     products,
     purchases
 WHERE
-    products.id=purchases.product_id
-LIMIT
-    5;
+    products.id = purchases.product_id
+LIMIT 5;
 ```
 
 ## Views
 
 ### What is a View
 
-* consist of a stored query accessible as a virtual table in a relational database or a set of documents in a document-oriented database composed of the result set of a query or map and reduce functions
+* consist of a stored query accessible as a virtual table in a relational database or a set of documents in a document-oriented database composed of the result set of a query or map and reduce functions (wikipedia)
 * simply a logical table that automatically connects the pieces of underlying data
 * it does not actually duplicate or persist the data as its viewed in a logical form
 
@@ -83,7 +83,7 @@ LIMIT
 
 ### A View in Action
 
-e.g.: 
+e.g.: report against employees and their departments many times
 
 ```
 CREATE OR REPLACE VIEW employee_view AS
@@ -100,7 +100,7 @@ WHERE
     AND departments.id=employee_departments.department_id
 ```
 
-then simply query the new table directly
+do above **once**, and then simply query the new table directly every time (传统的方式需要每一次都做上述操作)
 
 ```
 SELECT *
